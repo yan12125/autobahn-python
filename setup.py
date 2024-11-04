@@ -144,7 +144,7 @@ extras_require_xbr = [
 
     # the following is needed for the WAMP/XBR IDL code generator
     'jinja2>=2.11.3',           # BSD license
-    'yapf==0.29.0',             # Apache 2.0
+    'yapf==0.40.2',             # Apache 2.0
 
     # the following is needed for XBR account synch and device pairing
     'spake2>=0.8',              # MIT license (https://github.com/warner/python-spake2/blob/master/LICENSE)

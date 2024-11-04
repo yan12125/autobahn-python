@@ -34,5 +34,4 @@ twisted>=22.10.0
 txaio>=20.4.1
 watchdog>=0.8.3
 wheel>=0.36.2
-# https://github.com/google/yapf/issues/712
-yapf==0.29.0
+yapf==0.40.2

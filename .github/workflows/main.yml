@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - python-3.13
   pull_request:
     branches:
       - master
